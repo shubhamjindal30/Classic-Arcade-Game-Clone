@@ -1,5 +1,5 @@
 <b><big>Classic Arcade Game Clone: Frogger</big></b><br>
-->This is the fourth project of the Udacity's front end developer nano degree program.<br>
+->This is the third project of the Udacity's front end developer nano degree program.<br>
 ->To run the project, simply open index.html file from the folder.<br>
 ->A game will be displayed on the page.<br>
 ->The user can play the game using the <b>arrow keys</b> to move the player.<br>
